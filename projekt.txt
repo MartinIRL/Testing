@@ -2,5 +2,9 @@ heute hab ich nix gemacht
 zweiter satz und änderung 
 fuck you du lappen
 neuer absatz
+<<<<<<< HEAD
 fünfter absatz - anderer branch
 weiterer absatz im master branch
+=======
+fünfter absatz - anderer branch von background color
+>>>>>>> background-color
