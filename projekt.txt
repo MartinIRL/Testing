@@ -9,3 +9,4 @@ fünfter absatz - anderer branch von background color
 >>>>>>> background-color
 konflikt testen
 (für rebase und konflikt)
+
